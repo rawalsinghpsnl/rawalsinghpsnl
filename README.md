@@ -7,17 +7,15 @@
 [![Email](https://img.shields.io/badge/Email-rawalsinghpsnl@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rawalsinghpsnl@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=rawalsinghpsnl&color=2f81f7&style=flat-square)
 
-### 🛠️ My Stack
+### 🛠️ My Stack <sub>(auto-updated from my repos)</sub>
 
+<!--STACK:start-->
 <img src="https://skillicons.dev/icons?i=react,ts,js,vite,nodejs,express,mongodb,tailwind,vercel,git,github&theme=dark" alt="Stack" />
+<!--STACK:end-->
 
 ### 🔥 Streak <sub>(live)</sub>
 
 <img src="https://streak-stats.demolab.com?user=rawalsinghpsnl&theme=tokyonight&hide_border=true" alt="Streak" />
-
-### 🐍 Contributions <sub>(auto-updated daily)</sub>
-
-<img src="https://raw.githubusercontent.com/rawalsinghpsnl/rawalsinghpsnl/output/snake.svg" alt="Snake" />
 
 ### 🌟 Featured Project
 
