@@ -48,7 +48,8 @@ def level(count):
 
 
 def short(date_str):
-    return dt.date.fromisoformat(date_str).strftime("%b %-d")
+    d = dt.date.fromisoformat(date_str)
+    return f"{d.strftime('%b')} {d.day}"
 
 
 def main():
@@ -158,3 +159,7 @@ def main():
         print(f"streak updated: total={total} current={cur} longest={best}")
     else:
         print("streak already up to date")
+
+
+if __name__ == "__main__":
+    main()
