@@ -5,10 +5,13 @@ on:
     - cron: "0 6 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   activity:
     runs-on: ubuntu-latest
     steps:
-      - uses: jamesgeorgewilliams/github-activity-readme@master
+      - uses: Readme-Workflows/recent-activity@v2.4.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
