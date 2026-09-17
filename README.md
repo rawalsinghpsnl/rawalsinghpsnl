@@ -34,8 +34,8 @@
 
 ### ⚡ Recent Activity <sub>(auto-updated)</sub>
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
 *⚜️ "AI should empower humans — never replace them." ⚜️*
 
