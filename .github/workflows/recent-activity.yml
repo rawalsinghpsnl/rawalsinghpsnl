@@ -9,6 +9,6 @@ jobs:
   activity:
     runs-on: ubuntu-latest
     steps:
-      - uses: Readme-Workflows/recent-activity@v2.5.2
+      - uses: jamesgeorgewilliams/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

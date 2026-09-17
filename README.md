@@ -1,33 +1,29 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Rawal+Singh;AI+Builder+%E2%80%A2+Web+Developer;Arts+Student+turned+Tech+Creator" alt="Typing" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=header&text=Rawal%20Singh&fontSize=46&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Builder%20%E2%80%A2%20Barmer%2C%20Rajasthan&descAlignY=60&descSize=17" alt="Header" />
 
-**Barmer, Rajasthan, India** · AI-powered apps & tools · User-control first 🤖
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=1000&color=2F81F7&center=true&vCenter=true&width=620&lines=Arts+student+turned+AI+builder;Shipping+real+apps%2C+not+demos;User+control+comes+first" alt="Typing" />
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rawalsinghpsnl@gmail.com)
-[![Wineshop App](https://img.shields.io/badge/Featured_App-digitalparcha-amber?style=flat-square)](https://github.com/rawalsinghpsnl/rawal-wineshop-digitalparcha)
-![Views](https://komarev.com/ghpvc/?username=rawalsinghpsnl&color=2f81f7&style=flat-square)
+[![Email](https://img.shields.io/badge/Email-rawalsinghpsnl@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rawalsinghpsnl@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=rawalsinghpsnl&color=2f81f7&style=flat-square)
 
-</div>
-
----
-
-<div align="center">
-
-### 🛠️ Stack
+### 🛠️ My Stack
 
 <img src="https://skillicons.dev/icons?i=react,ts,js,vite,nodejs,express,mongodb,tailwind,vercel,git,github&theme=dark" alt="Stack" />
 
-### 📊 Stats <sub>(auto-updated)</sub>
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=rawalsinghpsnl&show_icons=true&theme=tokyonight&include_all_commits=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawalsinghpsnl&layout=compact&langs_count=6&theme=tokyonight" />
+### 🔥 Streak <sub>(live)</sub>
 
 <img src="https://streak-stats.demolab.com?user=rawalsinghpsnl&theme=tokyonight&hide_border=true" alt="Streak" />
 
-### 🌟 Featured
+### 🐍 Contributions <sub>(auto-updated daily)</sub>
 
-[![Digital Parcha](https://github-readme-stats.vercel.app/api/pin/?username=rawalsinghpsnl&repo=rawal-wineshop-digitalparcha&theme=tokyonight)](https://github.com/rawalsinghpsnl/rawal-wineshop-digitalparcha)
+<img src="https://raw.githubusercontent.com/rawalsinghpsnl/rawalsinghpsnl/output/snake.svg" alt="Snake" />
+
+### 🌟 Featured Project
+
+[![Stars](https://img.shields.io/github/stars/rawalsinghpsnl/rawal-wineshop-digitalparcha?style=social)](https://github.com/rawalsinghpsnl/rawal-wineshop-digitalparcha)
+<br />
+**[🍷 rawal-wineshop-digitalparcha](https://github.com/rawalsinghpsnl/rawal-wineshop-digitalparcha)** — digital daily-parcha, stock & cash system for Rajasthan liquor shops (React + MongoDB, Vercel-ready)
 
 ### ⚡ Recent Activity <sub>(auto-updated)</sub>
 
@@ -35,5 +31,7 @@
 <!--END_SECTION:activity-->
 
 *"AI should empower humans — never replace them."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer" alt="Footer" />
 
 </div>
