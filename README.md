@@ -114,6 +114,12 @@ graph LR
   <i>Check out my animated professional dashboard with live stats and interactive elements!</i>
 </p>
 
+<p align="center">
+  <a href="https://rawalsinghpsnl.github.io/rawalsinghpsnl/">
+    <img src="https://img.shields.io/badge/🌐-Live_Site-764ba2?style=for-the-badge" alt="Live Site">
+  </a>
+</p>
+
 ---
 
 ## 🎨 Fun Facts
