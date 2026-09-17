@@ -18,7 +18,7 @@
 ### 🛠️ My Stack <sub>(auto-updated from my repos)</sub>
 
 <!--STACK:start-->
-<img src="https://skillicons.dev/icons?i=ts,html,css,js&theme=dark" alt="Stack" />
+<img src="https://skillicons.dev/icons?i=py,ts,react,vite,tailwind,nodejs,docker,mongodb&theme=dark" alt="Stack" />
 <!--STACK:end-->
 
 ### 🔥 Streak <sub>(live)</sub>
@@ -27,14 +27,15 @@
 
 ### 🌟 Featured Project
 
-[![Stars](https://img.shields.io/github/stars/rawalsinghpsnl/rawal-wineshop-digitalparcha?style=social)](https://github.com/rawalsinghpsnl/rawal-wineshop-digitalparcha)
+[![Stars](https://img.shields.io/github/stars/rawalsinghpsnl/rawal-ai-agent?style=social)](https://github.com/rawalsinghpsnl/rawal-ai-agent)
+[![npm](https://img.shields.io/npm/v/rawal-ai-agent?color=cb3837&logo=npm)](https://www.npmjs.com/package/rawal-ai-agent)
 <br />
-**[🍷 rawal-wineshop-digitalparcha](https://github.com/rawalsinghpsnl/rawal-wineshop-digitalparcha)** — digital daily-parcha, stock & cash system for Rajasthan liquor shops (React + MongoDB, Vercel-ready)
+**[🤖 rawal-ai-agent](https://github.com/rawalsinghpsnl/rawal-ai-agent)** — self-hosted autonomous AI workspace (FastAPI + React/Vite + sandbox). One-click: `npx rawal-ai-agent`
 
 ### ⚡ Recent Activity <sub>(auto-updated)</sub>
 
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 *⚜️ "AI should empower humans — never replace them." ⚜️*
 
