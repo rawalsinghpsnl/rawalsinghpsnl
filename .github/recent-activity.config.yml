@@ -4,3 +4,6 @@ settings:
   readme_file: ./README.md
   date:
     timezone: Asia/Kolkata
+
+messages:
+  push: "📝 Pushed to {REPO}"
