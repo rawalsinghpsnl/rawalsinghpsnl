@@ -10,7 +10,7 @@
 ### 🛠️ My Stack <sub>(auto-updated from my repos)</sub>
 
 <!--STACK:start-->
-<img src="https://skillicons.dev/icons?i=react,ts,js,vite,nodejs,express,mongodb,tailwind,vercel,git,github&theme=dark" alt="Stack" />
+<img src="https://skillicons.dev/icons?i=ts,html,css,js&theme=dark" alt="Stack" />
 <!--STACK:end-->
 
 ### 🔥 Streak <sub>(live)</sub>
