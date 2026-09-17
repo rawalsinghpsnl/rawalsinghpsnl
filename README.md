@@ -102,6 +102,20 @@ graph LR
 
 ---
 
+## 🎨 Interactive Dashboard
+
+<p align="center">
+  <a href="https://rawalsinghpsnl.github.io/rawalsinghpsnl/dashboard.html">
+    <img src="https://img.shields.io/badge/🚀-View_Dashboard-667eea?style=for-the-badge" alt="Dashboard">
+  </a>
+</p>
+
+<p align="center">
+  <i>Check out my animated professional dashboard with live stats and interactive elements!</i>
+</p>
+
+---
+
 ## 🎨 Fun Facts
 
 - 🎓 **Arts Background** | Proving creativity meets technology
