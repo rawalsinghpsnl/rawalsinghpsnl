@@ -21,16 +21,20 @@
 <img src="https://skillicons.dev/icons?i=ts,py,css,html,js,bash,docker,java&theme=dark" alt="Stack" />
 <!--STACK:end-->
 
-### 🔥 Streak <sub>(live)</sub>
+### 🔥 Streak <sub>(auto-updated daily from real contributions)</sub>
 
-<img src="https://streak-stats.demolab.com?user=rawalsinghpsnl&theme=tokyonight&hide_border=true" alt="Streak" />
+<img src="assets/streak.svg" alt="Contribution streak" width="670" />
 
-### 🌟 Featured Project
+### 🌟 Featured Projects
 
 [![Stars](https://img.shields.io/github/stars/rawalsinghpsnl/rawal-ai-agent?style=social)](https://github.com/rawalsinghpsnl/rawal-ai-agent)
 [![npm](https://img.shields.io/npm/v/rawal-ai-agent?color=cb3837&logo=npm)](https://www.npmjs.com/package/rawal-ai-agent)
 <br />
 **[🤖 rawal-ai-agent](https://github.com/rawalsinghpsnl/rawal-ai-agent)** — self-hosted autonomous AI workspace (FastAPI + React/Vite + sandbox). One-click: `npx rawal-ai-agent`
+
+[![Stars](https://img.shields.io/github/stars/rawalsinghpsnl/rawal-wineshop-digitalparcha?style=social)](https://github.com/rawalsinghpsnl/rawal-wineshop-digitalparcha)
+<br />
+**[🍷 rawal-wineshop-digitalparcha](https://github.com/rawalsinghpsnl/rawal-wineshop-digitalparcha)** — digital daily-parcha, stock & cash system for Rajasthan liquor shops (React + MongoDB, Vercel-ready)
 
 ### ⚡ Recent Activity <sub>(auto-updated)</sub>
 
