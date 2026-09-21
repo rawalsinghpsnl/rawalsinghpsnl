@@ -39,11 +39,11 @@
 ### ⚡ Recent Activity <sub>(auto-updated)</sub>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [rawalsinghpsnl/Tel-Agent](https://github.com/rawalsinghpsnl/Tel-Agent) from [Dpro-at/Tel-Agent](https://github.com/Dpro-at/Tel-Agent)<br>
-2. 🔱 Forked [rawalsinghpsnl/hyperframes](https://github.com/rawalsinghpsnl/hyperframes) from [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)<br>
-3. ⭐ Starred [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)<br>
-4. 🔱 Forked [rawalsinghpsnl/prime-agent](https://github.com/rawalsinghpsnl/prime-agent) from [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)<br>
-5. 📝 Pushed to [rawalsinghpsnl/rawalsinghpsnl](https://github.com/rawalsinghpsnl/rawalsinghpsnl)<br>
+1. 🔱 Forked [rawalsinghpsnl/laya12](https://github.com/rawalsinghpsnl/laya12) from [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)<br>
+2. 🔱 Forked [rawalsinghpsnl/Tel-Agent](https://github.com/rawalsinghpsnl/Tel-Agent) from [Dpro-at/Tel-Agent](https://github.com/Dpro-at/Tel-Agent)<br>
+3. 🔱 Forked [rawalsinghpsnl/hyperframes](https://github.com/rawalsinghpsnl/hyperframes) from [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)<br>
+4. ⭐ Starred [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)<br>
+5. 🔱 Forked [rawalsinghpsnl/prime-agent](https://github.com/rawalsinghpsnl/prime-agent) from [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)<br>
 <!--RECENT_ACTIVITY:end-->
 
 *⚜️ "AI should empower humans — never replace them." ⚜️*
