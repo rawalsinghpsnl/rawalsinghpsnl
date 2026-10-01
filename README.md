@@ -18,7 +18,7 @@
 ### 🛠️ My Stack <sub>(auto-updated from my repos)</sub>
 
 <!--STACK:start-->
-<img src="https://skillicons.dev/icons?i=ts,py,css,html,js,bash,docker,java&theme=dark" alt="Stack" />
+<img src="https://skillicons.dev/icons?i=ts,js,html,css&theme=dark" alt="Stack" />
 <!--STACK:end-->
 
 ### 🔥 Streak <sub>(auto-updated daily from real contributions)</sub>
