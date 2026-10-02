@@ -39,11 +39,11 @@
 ### ⚡ Recent Activity <sub>(auto-updated)</sub>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📝 Pushed to [rawalsinghpsnl/grokbot-clone](https://github.com/rawalsinghpsnl/grokbot-clone)<br>
-2. 📝 Pushed to [rawalsinghpsnl/grokbot-clone](https://github.com/rawalsinghpsnl/grokbot-clone)<br>
-3. 📝 Pushed to [rawalsinghpsnl/grokbot-clone](https://github.com/rawalsinghpsnl/grokbot-clone)<br>
-4. 📝 Pushed to [rawalsinghpsnl/grokbot-clone](https://github.com/rawalsinghpsnl/grokbot-clone)<br>
-5. 📝 Pushed to [rawalsinghpsnl/grokbot-clone](https://github.com/rawalsinghpsnl/grokbot-clone)<br>
+1. 🔱 Forked [rawalsinghpsnl/bloks](https://github.com/rawalsinghpsnl/bloks) from [hamedgitty/bloks](https://github.com/hamedgitty/bloks)<br>
+2. 📝 Pushed to [rawalsinghpsnl/rakazo](https://github.com/rawalsinghpsnl/rakazo)<br>
+3. 🔱 Forked [rawalsinghpsnl/reelmimic](https://github.com/rawalsinghpsnl/reelmimic) from [edenfunf/reelmimic](https://github.com/edenfunf/reelmimic)<br>
+4. 🔱 Forked [rawalsinghpsnl/noodle](https://github.com/rawalsinghpsnl/noodle) from [pdparchitect/noodle](https://github.com/pdparchitect/noodle)<br>
+5. 🔱 Forked [rawalsinghpsnl/open-dot](https://github.com/rawalsinghpsnl/open-dot) from [composio-community/open-dot](https://github.com/composio-community/open-dot)<br>
 <!--RECENT_ACTIVITY:end-->
 
 *⚜️ "AI should empower humans — never replace them." ⚜️*
