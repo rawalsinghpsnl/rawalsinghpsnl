@@ -39,11 +39,11 @@
 ### ⚡ Recent Activity <sub>(auto-updated)</sub>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [rawalsinghpsnl/bloks](https://github.com/rawalsinghpsnl/bloks) from [hamedgitty/bloks](https://github.com/hamedgitty/bloks)<br>
-2. 📝 Pushed to [rawalsinghpsnl/rakazo](https://github.com/rawalsinghpsnl/rakazo)<br>
-3. 🔱 Forked [rawalsinghpsnl/reelmimic](https://github.com/rawalsinghpsnl/reelmimic) from [edenfunf/reelmimic](https://github.com/edenfunf/reelmimic)<br>
-4. 🔱 Forked [rawalsinghpsnl/noodle](https://github.com/rawalsinghpsnl/noodle) from [pdparchitect/noodle](https://github.com/pdparchitect/noodle)<br>
-5. 🔱 Forked [rawalsinghpsnl/open-dot](https://github.com/rawalsinghpsnl/open-dot) from [composio-community/open-dot](https://github.com/composio-community/open-dot)<br>
+1. 🔱 Forked [rawalsinghpsnl/playgta5](https://github.com/rawalsinghpsnl/playgta5) from [shadany7824/playgta5](https://github.com/shadany7824/playgta5)<br>
+2. 🔱 Forked [rawalsinghpsnl/bloks](https://github.com/rawalsinghpsnl/bloks) from [hamedgitty/bloks](https://github.com/hamedgitty/bloks)<br>
+3. 📝 Pushed to [rawalsinghpsnl/rakazo](https://github.com/rawalsinghpsnl/rakazo)<br>
+4. 🔱 Forked [rawalsinghpsnl/reelmimic](https://github.com/rawalsinghpsnl/reelmimic) from [edenfunf/reelmimic](https://github.com/edenfunf/reelmimic)<br>
+5. 🔱 Forked [rawalsinghpsnl/noodle](https://github.com/rawalsinghpsnl/noodle) from [pdparchitect/noodle](https://github.com/pdparchitect/noodle)<br>
 <!--RECENT_ACTIVITY:end-->
 
 *⚜️ "AI should empower humans — never replace them." ⚜️*
