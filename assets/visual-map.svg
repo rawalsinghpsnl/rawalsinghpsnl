@@ -1,1 +1,99 @@
-PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI4MDAiIGhlaWdodD0iNDAwIiB2aWV3Qm94PSIwIDAgODAwIDQwMCI+CiAgPGRlZnM+CiAgICA8cmFkaWFsR3JhZGllbnQgaWQ9ImJnIiBjeD0iNTAlIiBjeT0iNDAlIiByPSI4MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMTYxYjNhIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iNjAlIiBzdG9wLWNvbG9yPSIjMGQxMTE3Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzA2MDgxMCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvd0MiIGN4PSI1MCUiIGN5PSI1MCUiIHI9IjUwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMwMGU1ZmYiIHN0b3Atb3BhY2l0eT0iMC41NSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwMGU1ZmYiIHN0b3Atb3BhY2l0eT0iMCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvd1AiIGN4PSI1MCUiIGN5PSI1MCUiIHI9IjUwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiNiNTM3ZjIiIHN0b3Atb3BhY2l0eT0iMC41Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2I1MzdmMiIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICA8L3JhZGlhbEdyYWRpZW50PgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJyaW5nIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMwMGU1ZmYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjYjUzN2YyIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KCiAgPHJlY3Qgd2lkdGg9IjgwMCIgaGVpZ2h0PSI0MDAiIGZpbGw9InVybCgjYmcpIi8+CgogIDxnIHN0cm9rZT0iIzFjMmE0YSIgc3Ryb2tlLXdpZHRoPSIxIiBvcGFjaXR5PSIwLjUiPgogICAgPHBhdGggZD0iTTAgODAgSDgwMCBNMCAxNjAgSDgwMCBNMCAyNDAgSDgwMCBNMCAzMjAgSDgwMCIvPgogICAgPHBhdGggZD0iTTEwMCAwIFY0MDAgTTIwMCAwIFY0MDAgTTMwMCAwIFY0MDAgTTQwMCAwIFY0MDAgTTUwMCAwIFY0MDAgTTYwMCAwIFY0MDAgTTcwMCAwIFY0MDAiLz4KICA8L2c+CgogIDxjaXJjbGUgY3g9IjQwMCIgY3k9IjIwMCIgcj0iMTgwIiBmaWxsPSJ1cmwoI2dsb3dDKSIgb3BhY2l0eT0iMC41Ij4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMC41OzAuMjU7MC41IiBkdXI9IjZzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogIDwvY2lyY2xlPgogIDxjaXJjbGUgY3g9IjQwMCIgY3k9IjIwMCIgcj0iMTIwIiBmaWxsPSJ1cmwoI2dsb3dQKSIgb3BhY2l0eT0iMC40Ij4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMC40OzAuMTU7MC40IiBkdXI9IjhzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogIDwvY2lyY2xlPgoKICA8ZyBmaWxsPSIjMDBlNWZmIj4KICAgIDxjaXJjbGUgY3g9IjEyMCIgY3k9IjkwIiByPSIzIiBvcGFjaXR5PSIwLjgiPjxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9ImN5IiB2YWx1ZXM9IjkwOzYwOzkwIiBkdXI9IjVzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPjxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMC44OzAuMjswLjgiIGR1cj0iNXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+PC9jaXJjbGU+CiAgICA8Y2lyY2xlIGN4PSI2ODAiIGN5PSIxMTAiIHI9IjIuNSIgb3BhY2l0eT0iMC43Ij48YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJjeSIgdmFsdWVzPSIxMTA7MTQwOzExMCIgZHVyPSI2cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz48YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJvcGFjaXR5IiB2YWx1ZXM9IjAuNzswLjI7MC43IiBkdXI9IjZzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPjwvY2lyY2xlPgogICAgPGNpcmNsZSBjeD0iMjIwIiBjeT0iMzAwIiByPSIyIiBvcGFjaXR5PSIwLjYiPjxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9ImN5IiB2YWx1ZXM9IjMwMDsyNzA7MzAwIiBkdXI9IjdzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPjwvY2lyY2xlPgogICAgPGNpcmNsZSBjeD0iNTkwIiBjeT0iMjkwIiByPSIzLjUiIG9wYWNpdHk9IjAuNzUiPjxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9ImN5IiB2YWx1ZXM9IjI5MDszMjA7MjkwIiBkdXI9IjUuNXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+PGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwLjc1OzAuMjU7MC43NSIgZHVyPSI1LjVzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPjwvY2lyY2xlPgogICAgPGNpcmNsZSBjeD0iODAiIGN5PSIyMTAiIHI9IjIiIG9wYWNpdHk9IjAuNSI+PGFuaW1hdGUgYXR0cmlidXRlTmFtZT0iY3giIHZhbHVlcz0iODA7MTEwOzgwIiBkdXI9IjhzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPjwvY2lyY2xlPgogICAgPGNpcmNsZSBjeD0iNzMwIiBjeT0iMjIwIiByPSIyLjUiIG9wYWNpdHk9IjAuNiI+PGFuaW1hdGUgYXR0cmlidXRlTmFtZT0iY3giIHZhbHVlcz0iNzMwOzcwMDs3MzAiIGR1cj0iN3MiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+PC9jaXJjbGU+CiAgICA8Y2lyY2xlIGN4PSIzMjAiIGN5PSI3MCIgcj0iMiIgb3BhY2l0eT0iMC41NSI+PGFuaW1hdGUgYXR0cmlidXRlTmFtZT0iY3kiIHZhbHVlcz0iNzA7OTU7NzAiIGR1cj0iNi41cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz48L2NpcmNsZT4KICAgIDxjaXJjbGUgY3g9IjQ4MCIgY3k9IjMzMCIgcj0iMi41IiBvcGFjaXR5PSIwLjY1Ij48YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJjeSIgdmFsdWVzPSIzMzA7MzA1OzMzMCIgZHVyPSI1LjhzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPjwvY2lyY2xlPgogIDwvZz4KICA8ZyBmaWxsPSIjYjUzN2YyIj4KICAgIDxjaXJjbGUgY3g9IjE4MCIgY3k9IjE1MCIgcj0iMi41IiBvcGFjaXR5PSIwLjciPjxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9ImN5IiB2YWx1ZXM9IjE1MDsxMjA7MTUwIiBkdXI9IjYuMnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+PC9jaXJjbGU+CiAgICA8Y2lyY2xlIGN4PSI2MzAiIGN5PSIxNzAiIHI9IjMiIG9wYWNpdHk9IjAuNiI+PGFuaW1hdGUgYXR0cmlidXRlTmFtZT0iY3kiIHZhbHVlcz0iMTcwOzIwMDsxNzAiIGR1cj0iNS4ycyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz48YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJvcGFjaXR5IiB2YWx1ZXM9IjAuNjswLjI7MC42IiBkdXI9IjUuMnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+PC9jaXJjbGU+CiAgICA8Y2lyY2xlIGN4PSIyNjAiIGN5PSIyNTAiIHI9IjIiIG9wYWNpdHk9IjAuNSI+PGFuaW1hdGUgYXR0cmlidXRlTmFtZT0iY3giIHZhbHVlcz0iMjYwOzI5MDsyNjAiIGR1cj0iNy41cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz48L2NpcmNsZT4KICAgIDxjaXJjbGUgY3g9IjU1MCIgY3k9IjI0MCIgcj0iMiIgb3BhY2l0eT0iMC41NSI+PGFuaW1hdGUgYXR0cmlidXRlTmFtZT0iY3giIHZhbHVlcz0iNTUwOzUyMDs1NTAiIGR1cj0iNi44cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz48L2NpcmNsZT4KICAgIDxjaXJjbGUgY3g9IjQwMCIgY3k9IjU1IiByPSIyLjUiIG9wYWNpdHk9IjAuNyI+PGFuaW1hdGUgYXR0cmlidXRlTmFtZT0iY3kiIHZhbHVlcz0iNTU7ODA7NTUiIGR1cj0iNS45cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz48L2NpcmNsZT4KICAgIDxjaXJjbGUgY3g9IjQwMCIgY3k9IjM0NSIgcj0iMiIgb3BhY2l0eT0iMC41Ij48YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJjeSIgdmFsdWVzPSIzNDU7MzIwOzM0NSIgZHVyPSI3LjJzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPjwvY2lyY2xlPgogIDwvZz4KICA8ZyBmaWxsPSIjZjdkZjFlIj4KICAgIDxjaXJjbGUgY3g9IjE1MCIgY3k9IjI2MCIgcj0iMS44IiBvcGFjaXR5PSIwLjYiPjxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMC42OzAuMTswLjYiIGR1cj0iNHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+PC9jaXJjbGU+CiAgICA8Y2lyY2xlIGN4PSI2NjAiIGN5PSIyNjAiIHI9IjEuOCIgb3BhY2l0eT0iMC42Ij48YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJvcGFjaXR5IiB2YWx1ZXM9IjAuNjswLjE7MC42IiBkdXI9IjQuNXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+PC9jaXJjbGU+CiAgICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSIxMjAiIHI9IjEuNSIgb3BhY2l0eT0iMC41Ij48YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJvcGFjaXR5IiB2YWx1ZXM9IjAuNTswLjE7MC41IiBkdXI9IjMuOHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+PC9jaXJjbGU+CiAgICA8Y2lyY2xlIGN4PSI1MTAiIGN5PSIxMzAiIHI9IjEuNSIgb3BhY2l0eT0iMC41Ij48YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJvcGFjaXR5IiB2YWx1ZXM9IjAuNTswLjE7MC41IiBkdXI9IjQuMnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+PC9jaXJjbGU+CiAgPC9nPgoKICA8ZyBmaWxsPSJub25lIiBzdHJva2U9InVybCgjcmluZykiIHN0cm9rZS13aWR0aD0iMS41IiBvcGFjaXR5PSIwLjYiPgogICAgPGVsbGlwc2UgY3g9IjQwMCIgY3k9IjIwMCIgcng9IjE1MCIgcnk9IjYwIj4KICAgICAgPGFuaW1hdGVUcmFuc2Zvcm0gYXR0cmlidXRlTmFtZT0idHJhbnNmb3JtIiB0eXBlPSJyb3RhdGUiIGZyb209IjAgNDAwIDIwMCIgdG89IjM2MCA0MDAgMjAwIiBkdXI9IjI0cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICAgIDwvZWxsaXBzZT4KICAgIDxlbGxpcHNlIGN4PSI0MDAiIGN5PSIyMDAiIHJ4PSIxNTAiIHJ5PSI2MCIgb3BhY2l0eT0iMC40Ij4KICAgICAgPGFuaW1hdGVUcmFuc2Zvcm0gYXR0cmlidXRlTmFtZT0idHJhbnNmb3JtIiB0eXBlPSJyb3RhdGUiIGZyb209IjM2MCA0MDAgMjAwIiB0bz0iMCA0MDAgMjAwIiBkdXI9IjMycyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICAgIDwvZWxsaXBzZT4KICA8L2c+CiAgPGNpcmNsZSBjeD0iNDAwIiBjeT0iMjAwIiByPSI5NSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDBlNWZmIiBzdHJva2Utd2lkdGg9IjEiIG9wYWNpdHk9IjAuMzUiIHN0cm9rZS1kYXNoYXJyYXk9IjYgOCI+CiAgICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InJvdGF0ZSIgZnJvbT0iMCA0MDAgMjAwIiB0bz0iMzYwIDQwMCAyMDAiIGR1cj0iMThzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogIDwvY2lyY2xlPgoKICA8IS0tIFRTIC0tPgogIDxnIG9wYWNpdHk9IjEiPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIxOzE7MDswOzA7MDsxOzEiIGtleVRpbWVzPSIwOzAuMjg7MC4zMzswLjYxOzAuNjY7MC45NDswLjk5OzEiIGR1cj0iMTJzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogICAgPHJlY3QgeD0iMzQwIiB5PSIxNDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iMTIwIiByeD0iMTIiIGZpbGw9IiMzMTc4YzYiLz4KICAgIDx0ZXh0IHg9IjQwMCIgeT0iMjI4IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtd2VpZ2h0PSJib2xkIiBmb250LXNpemU9IjcyIiBmaWxsPSIjZmZmIj5UUzwvdGV4dD4KICA8L2c+CiAgPCEtLSBBSSAtLT4KICA8ZyBvcGFjaXR5PSIwIj4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMDswOzE7MTswOzA7MDswIiBrZXlUaW1lcz0iMDswLjI4OzAuMzM7MC42MTswLjY2OzAuOTQ7MC45OTsxIiBkdXI9IjEycyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICAgIDxyZWN0IHg9IjM0MCIgeT0iMTQwIiB3aWR0aD0iMTIwIiBoZWlnaHQ9IjEyMCIgcng9IjEyIiBmaWxsPSIjYjUzN2YyIi8+CiAgICA8dGV4dCB4PSI0MDAiIHk9IjIyOCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXdlaWdodD0iYm9sZCIgZm9udC1zaXplPSI3MiIgZmlsbD0iI2ZmZiI+QUk8L3RleHQ+CiAgPC9nPgogIDwhLS0gQk9UIC0tPgogIDxnIG9wYWNpdHk9IjAiPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwOzA7MDswOzE7MTswOzAiIGtleVRpbWVzPSIwOzAuMjg7MC4zMzswLjYxOzAuNjY7MC45NDswLjk5OzEiIGR1cj0iMTJzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogICAgPHJlY3QgeD0iMzQwIiB5PSIxNDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iMTIwIiByeD0iMTIiIGZpbGw9IiMwMGU1ZmYiLz4KICAgIDx0ZXh0IHg9IjQwMCIgeT0iMjIyIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtd2VpZ2h0PSJib2xkIiBmb250LXNpemU9IjQwIiBmaWxsPSIjMDYwODEwIj5CT1Q8L3RleHQ+CiAgPC9nPgoKICA8dGV4dCB4PSI0MDAiIHk9IjMwMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSIxNSIgZmlsbD0iIzAwZTVmZiIgbGV0dGVyLXNwYWNpbmc9IjYiIG9wYWNpdHk9IjAuOSI+VklTVUFMX01BUDwvdGV4dD4KICA8dGV4dCB4PSI0MDAiIHk9IjQ4IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmb250LXNpemU9IjEzIiBmaWxsPSIjOGI5NDllIiBsZXR0ZXItc3BhY2luZz0iNCI+4peIIFBBUlRJQ0xFLlNZUyDigJQgT05MSU5FIOKXiDwvdGV4dD4KCiAgPGcgc3Ryb2tlPSIjMDBlNWZmIiBzdHJva2Utd2lkdGg9IjIiIGZpbGw9Im5vbmUiIG9wYWNpdHk9IjAuNyI+CiAgICA8cGF0aCBkPSJNMzAgNjAgVjMwIEg2MCIvPjxwYXRoIGQ9Ik03NDAgMzAgSDc3MCBWNjAiLz4KICAgIDxwYXRoIGQ9Ik0zMCAzNDAgVjM3MCBINjAiLz48cGF0aCBkPSJNNzQwIDM3MCBINzcwIFYzNDAiLz4KICA8L2c+Cjwvc3ZnPgo=
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="40%" r="80%">
+      <stop offset="0%" stop-color="#161b3a"/>
+      <stop offset="60%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#060810"/>
+    </radialGradient>
+    <radialGradient id="glowC" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00e5ff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#00e5ff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowP" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#b537f2" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#b537f2" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00e5ff"/>
+      <stop offset="100%" stop-color="#b537f2"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="400" fill="url(#bg)"/>
+
+  <g stroke="#1c2a4a" stroke-width="1" opacity="0.5">
+    <path d="M0 80 H800 M0 160 H800 M0 240 H800 M0 320 H800"/>
+    <path d="M100 0 V400 M200 0 V400 M300 0 V400 M400 0 V400 M500 0 V400 M600 0 V400 M700 0 V400"/>
+  </g>
+
+  <circle cx="400" cy="200" r="180" fill="url(#glowC)" opacity="0.5">
+    <animate attributeName="opacity" values="0.5;0.25;0.5" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="400" cy="200" r="120" fill="url(#glowP)" opacity="0.4">
+    <animate attributeName="opacity" values="0.4;0.15;0.4" dur="8s" repeatCount="indefinite"/>
+  </circle>
+
+  <g fill="#00e5ff">
+    <circle cx="120" cy="90" r="3" opacity="0.8"><animate attributeName="cy" values="90;60;90" dur="5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0.2;0.8" dur="5s" repeatCount="indefinite"/></circle>
+    <circle cx="680" cy="110" r="2.5" opacity="0.7"><animate attributeName="cy" values="110;140;110" dur="6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.7;0.2;0.7" dur="6s" repeatCount="indefinite"/></circle>
+    <circle cx="220" cy="300" r="2" opacity="0.6"><animate attributeName="cy" values="300;270;300" dur="7s" repeatCount="indefinite"/></circle>
+    <circle cx="590" cy="290" r="3.5" opacity="0.75"><animate attributeName="cy" values="290;320;290" dur="5.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.75;0.25;0.75" dur="5.5s" repeatCount="indefinite"/></circle>
+    <circle cx="80" cy="210" r="2" opacity="0.5"><animate attributeName="cx" values="80;110;80" dur="8s" repeatCount="indefinite"/></circle>
+    <circle cx="730" cy="220" r="2.5" opacity="0.6"><animate attributeName="cx" values="730;700;730" dur="7s" repeatCount="indefinite"/></circle>
+    <circle cx="320" cy="70" r="2" opacity="0.55"><animate attributeName="cy" values="70;95;70" dur="6.5s" repeatCount="indefinite"/></circle>
+    <circle cx="480" cy="330" r="2.5" opacity="0.65"><animate attributeName="cy" values="330;305;330" dur="5.8s" repeatCount="indefinite"/></circle>
+  </g>
+  <g fill="#b537f2">
+    <circle cx="180" cy="150" r="2.5" opacity="0.7"><animate attributeName="cy" values="150;120;150" dur="6.2s" repeatCount="indefinite"/></circle>
+    <circle cx="630" cy="170" r="3" opacity="0.6"><animate attributeName="cy" values="170;200;170" dur="5.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.6;0.2;0.6" dur="5.2s" repeatCount="indefinite"/></circle>
+    <circle cx="260" cy="250" r="2" opacity="0.5"><animate attributeName="cx" values="260;290;260" dur="7.5s" repeatCount="indefinite"/></circle>
+    <circle cx="550" cy="240" r="2" opacity="0.55"><animate attributeName="cx" values="550;520;550" dur="6.8s" repeatCount="indefinite"/></circle>
+    <circle cx="400" cy="55" r="2.5" opacity="0.7"><animate attributeName="cy" values="55;80;55" dur="5.9s" repeatCount="indefinite"/></circle>
+    <circle cx="400" cy="345" r="2" opacity="0.5"><animate attributeName="cy" values="345;320;345" dur="7.2s" repeatCount="indefinite"/></circle>
+  </g>
+  <g fill="#f7df1e">
+    <circle cx="150" cy="260" r="1.8" opacity="0.6"><animate attributeName="opacity" values="0.6;0.1;0.6" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="660" cy="260" r="1.8" opacity="0.6"><animate attributeName="opacity" values="0.6;0.1;0.6" dur="4.5s" repeatCount="indefinite"/></circle>
+    <circle cx="300" cy="120" r="1.5" opacity="0.5"><animate attributeName="opacity" values="0.5;0.1;0.5" dur="3.8s" repeatCount="indefinite"/></circle>
+    <circle cx="510" cy="130" r="1.5" opacity="0.5"><animate attributeName="opacity" values="0.5;0.1;0.5" dur="4.2s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <g fill="none" stroke="url(#ring)" stroke-width="1.5" opacity="0.6">
+    <ellipse cx="400" cy="200" rx="150" ry="60">
+      <animateTransform attributeName="transform" type="rotate" from="0 400 200" to="360 400 200" dur="24s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="400" cy="200" rx="150" ry="60" opacity="0.4">
+      <animateTransform attributeName="transform" type="rotate" from="360 400 200" to="0 400 200" dur="32s" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+  <circle cx="400" cy="200" r="95" fill="none" stroke="#00e5ff" stroke-width="1" opacity="0.35" stroke-dasharray="6 8">
+    <animateTransform attributeName="transform" type="rotate" from="0 400 200" to="360 400 200" dur="18s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- TS -->
+  <g opacity="1">
+    <animate attributeName="opacity" values="1;1;0;0;0;0;1;1" keyTimes="0;0.28;0.33;0.61;0.66;0.94;0.99;1" dur="12s" repeatCount="indefinite"/>
+    <rect x="340" y="140" width="120" height="120" rx="12" fill="#3178c6"/>
+    <text x="400" y="228" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="72" fill="#fff">TS</text>
+  </g>
+  <!-- AI -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0;0;0" keyTimes="0;0.28;0.33;0.61;0.66;0.94;0.99;1" dur="12s" repeatCount="indefinite"/>
+    <rect x="340" y="140" width="120" height="120" rx="12" fill="#b537f2"/>
+    <text x="400" y="228" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="72" fill="#fff">AI</text>
+  </g>
+  <!-- BOT -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;0;0;1;1;0;0" keyTimes="0;0.28;0.33;0.61;0.66;0.94;0.99;1" dur="12s" repeatCount="indefinite"/>
+    <rect x="340" y="140" width="120" height="120" rx="12" fill="#00e5ff"/>
+    <text x="400" y="222" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="40" fill="#060810">BOT</text>
+  </g>
+
+  <text x="400" y="300" text-anchor="middle" font-family="monospace" font-size="15" fill="#00e5ff" letter-spacing="6" opacity="0.9">VISUAL_MAP</text>
+  <text x="400" y="48" text-anchor="middle" font-family="monospace" font-size="13" fill="#8b949e" letter-spacing="4">◈ PARTICLE.SYS — ONLINE ◈</text>
+
+  <g stroke="#00e5ff" stroke-width="2" fill="none" opacity="0.7">
+    <path d="M30 60 V30 H60"/><path d="M740 30 H770 V60"/>
+    <path d="M30 340 V370 H60"/><path d="M740 370 H770 V340"/>
+  </g>
+</svg>
