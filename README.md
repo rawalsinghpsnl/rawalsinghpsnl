@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="banner-light.svg" />
-  <img alt="Rawal Singh — animated profile banner" src="banner-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg" />
+  <img alt="Rawal Singh — animated profile banner" src="assets/banner-dark.svg" />
 </picture>
 
 <br/>
