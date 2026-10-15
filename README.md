@@ -1,69 +1,181 @@
+<a href="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=AI+Bots+Builder;Websites+%7C+TypeScript+%7C+JavaScript;LLMs+%7C+AI+Agents+%7C+Automation;Simplifying+Life+with+Tech">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=AI+Bots+Builder;Websites+%7C+TypeScript+%7C+JavaScript;LLMs+%7C+AI+Agents+%7C+Automation;Simplifying+Life+with+Tech" alt="Typing SVG" />
+</a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rawalsinghpsnl/rawalsinghpsnl/main/assets/portrait.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rawalsinghpsnl/rawalsinghpsnl/main/assets/portrait.svg">
+  <img alt="Rawal Singh" src="https://raw.githubusercontent.com/rawalsinghpsnl/rawalsinghpsnl/main/assets/portrait.svg">
+</picture>
+
 <div align="center">
 
-<img src="assets/visual-map.svg" alt="visual map" width="800"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-streak-stats-eight.vercel.app/?user=rawalsinghpsnl&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-streak-stats-eight.vercel.app/?user=rawalsinghpsnl&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180"
+  />
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=rawalsinghpsnl&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180"
+    width="100%"
+    alt="GitHub Streak Stats"
+  />
+</picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Rawal+Singh;AI+Bots+%26+Websites+Builder;TypeScript+%2B+AI+Agents;Simplifying+Life+with+Tech" alt="typing" />
+</div>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=rawalsinghpsnl&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500"/>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api?username=rawalsinghpsnl&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0F172A&icon_color=7C3AED&text_color=475569&bg_color=FFFFFF&card_width=500"/>
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=rawalsinghpsnl&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500"
+    alt="GitHub Stats"
+  />
+</picture>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rawalsinghpsnl&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500"/>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rawalsinghpsnl&layout=compact&langs_count=8&hide_border=true&title_color=0F172A&text_color=475569&bg_color=FFFFFF&card_width=500"/>
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawalsinghpsnl&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500"
+    alt="Top Languages"
+  />
+</picture>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=rawalsinghpsnl&color=00e5ff&style=for-the-badge&label=PROFILE+VISITS" alt="visits"/>
-  <img src="https://img.shields.io/badge/📍_Barmer,_Rajasthan-0d1117?style=for-the-badge&logoColor=white" alt="location"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rawalsinghpsnl/rawalsinghpsnl/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rawalsinghpsnl/rawalsinghpsnl/output/snake.svg">
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/rawalsinghpsnl/rawalsinghpsnl/output/snake.svg">
+</picture>
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rawalsinghpsnl)
+[![Portfolio](https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=0A101F)](https://github.com/rawalsinghpsnl/rawalsinghpsnl)
 
 </div>
 
 ---
 
-### 🧬 About
+## About
 
-```ts
-const rawal = {
-  role: "Arts student × Builder",
-  focus: ["AI bots", "Websites", "AI agents"],
-  mission: "Simplifying life with user-controlled AI systems",
-  stack: ["TypeScript", "JavaScript", "HTML/CSS", "AI/LLMs"],
-  location: "Barmer, Rajasthan, India",
-  motto: "Tech should serve people — not the other way around."
-};
-```
+I am an **Arts student and builder** focused on creating **AI bots, websites, and AI agents** that simplify everyday life.
 
----
+My approach combines **practical building, AI systems, and automation** — always with the user in control. The goal is technology that **serves people, not the other way around**.
 
-### 🛠️ Tech Stack
+I work primarily with **TypeScript and JavaScript**, building real-world tools like digital billing and stock systems, while exploring **LLMs, AI agents, and intelligent automation**.
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Agents-b537f2?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
+### Focus
+
+- AI Bots & Assistants
+
+- Websites & Web Apps
+
+- AI Agents & Automation
+
+- TypeScript & JavaScript
+
+- Practical, user-controlled AI systems
+
+### Open To
+
+**AI Projects • Web Development • Automation • Open Source Collaboration • Freelance Builds**
 
 ---
 
-### 📊 Stats
+## Tech Stack
+
+### Languages
+
+![Languages](https://skillicons.dev/icons?i=ts,js,html,css)
+
+### Frontend & Runtime
+
+![Frontend](https://skillicons.dev/icons?i=react,vite,nodejs)
+
+### Backend & Databases
+
+![Backend](https://skillicons.dev/icons?i=nodejs,mongodb)
+
+### Cloud, DevOps & Tooling
+
+![DevOps](https://skillicons.dev/icons?i=vercel,git,github,vscode)
+
+### AI / Ecosystem
+
+![AI](https://img.shields.io/badge/AI_Agents-4C1D95?style=for-the-badge&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-4F46E5?style=for-the-badge&logo=googlebard&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-4338CA?style=for-the-badge&logo=zapier&logoColor=white)
+
+---
+
+## Expertise
+
+| Domain | Proficiency | Details |
+| --- | --- | --- |
+| AI Bots | Intermediate | Building conversational bots and assistants for practical use |
+| Web Development | Intermediate | Full-stack websites with TypeScript, React and Node.js |
+| AI Agents | Learning | Agentic workflows, tool usage and automation |
+| Automation | Intermediate | Automating daily workflows and business processes |
+| TypeScript | Intermediate | Type-safe application development |
+
+---
+
+## Featured Projects
+
+**01 · Wineshop Digital Parcha**
+
+A digital daily-parcha, stock and cash reconciliation system for Rajasthan liquor shops — replacing paper registers with a fast, reliable web app.
+
+| Dimension | Details |
+| --- | --- |
+| **Stack** | TypeScript • React • Vite • MongoDB |
+| **Scale** | Real-world business tool |
+| **Impact** | Digitizes daily billing, stock and cash flow for shops |
+| **Repository** | [View on GitHub](https://github.com/rawalsinghpsnl/rawal-wineshop-digitalparcha) |
+
+### Build Perspective
+
+The project solves a real problem faced by local businesses — moving from error-prone paper records to a **fast, verifiable digital system**. It represents practical software engineering: **built for users, not demos**.
+
+---
+
+## Achievements
+
+| Recognition | Details |
+| --- | --- |
+| **Real-World Builder** | Shipping production tools used by actual businesses |
+| **AI-First Mindset** | Building with AI bots, agents and automation from day one |
+| **Self-Taught Engineer** | Arts background, engineering by curiosity and practice |
+
+---
+
+## Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rawalsinghpsnl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=b537f2&text_color=c9d1d9" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rawalsinghpsnl&theme=tokyonight&hide_border=true&background=0d1117&stroke=00e5ff&ring=b537f2&fire=f7df1e&currStreakLabel=00e5ff" height="170" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawalsinghpsnl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9" height="170" />
+![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rawalsinghpsnl&theme=tokyo-night&hide_border=true&bg_color=0A101F&color=22D3EE&line=A78BFA&point=10B981)
 
 </div>
 
 ---
 
-### 🏆 Featured
-
-| Project | Description |
-|---|---|
-| [rawal-wineshop-digitalparcha](https://github.com/rawalsinghpsnl/rawal-wineshop-digitalparcha) | Digital daily-parcha, stock & cash reconciliation system |
-
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=rawalsinghpsnl&theme=tokyonight&no-frame=true&row=1&column=6)
+### `Build useful things. Keep humans in control. Automate what matters.`
 
-<sub>⚡ arts student by degree, builder by heart</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:22D3EE,100:10B981&height=120&section=footer&animation=fadeIn"/>
 
 </div>
