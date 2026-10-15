@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="560" viewBox="0 0 1180 560" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" role="img" aria-label="Rawal Singh — profile.sh --live">
+<defs>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#7C3AED"><animate attributeName="stop-color" values="#7C3AED;#22D3EE;#10B981;#7C3AED" dur="10s" repeatCount="indefinite"/></stop>
+    <stop offset="0.5" stop-color="#22D3EE"><animate attributeName="stop-color" values="#22D3EE;#10B981;#7C3AED;#22D3EE" dur="10s" repeatCount="indefinite"/></stop>
+    <stop offset="1" stop-color="#10B981"><animate attributeName="stop-color" values="#10B981;#7C3AED;#22D3EE;#10B981" dur="10s" repeatCount="indefinite"/></stop>
+  </linearGradient>
+  <linearGradient id="panelGrad" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#0A101F"/><stop offset="1" stop-color="#0C1426"/>
+  </linearGradient>
+  <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+    <feGaussianBlur stdDeviation="6"/>
+  </filter>
+</defs>
+
+<rect x="8" y="8" width="1164" height="544" rx="16" fill="url(#panelGrad)" stroke="url(#accent)" stroke-width="2"/>
+
+<!-- title bar -->
+<circle cx="44" cy="40" r="8" fill="#FF5F57"/>
+<circle cx="70" cy="40" r="8" fill="#FEBC2E"/>
+<circle cx="96" cy="40" r="8" fill="#28C840"/>
+<text x="590" y="46" text-anchor="middle" font-size="18" fill="#94A3B8">rawal@barmer: ~/profile.sh --live</text>
+
+<!-- live indicator -->
+<circle cx="1050" cy="40" r="7" fill="#10B981">
+  <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+</circle>
+<text x="1065" y="46" font-size="15" fill="#10B981">LIVE</text>
+
+<!-- ASCII portrait -->
+<g font-size="17" fill="#22D3EE" opacity="0.95">
+<text x="60" y="110">██████╗  █████╗ ██╗    ██╗ █████╗ ██╗     </text>
+<text x="60" y="132">██╔══██╗██╔══██╗██║    ██║██╔══██╗██║     </text>
+<text x="60" y="154">██████╔╝███████║██║ █╗ ██║███████║██║     </text>
+<text x="60" y="176">██╔══██╗██╔══██║██║███╗██║██╔══██║██║     </text>
+<text x="60" y="198">██║  ██║██║  ██║╚███╔███╔╝██║  ██║███████╗</text>
+<text x="60" y="220">╚═╝  ╚═╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚══════╝</text>
+</g>
+<g font-size="17" fill="#A78BFA" opacity="0.9">
+<text x="60" y="252">███████╗██╗███╗   ██╗ ██████╗ ██╗  ██╗</text>
+<text x="60" y="274">██╔════╝██║████╗  ██║██╔════╝ ██║  ██║</text>
+<text x="60" y="296">███████╗██║██╔██╗ ██║██║  ███╗███████║</text>
+<text x="60" y="318">╚════██║██║██║╚██╗██║██║   ██║██╔══██║</text>
+<text x="60" y="340">███████║██║██║ ╚████║╚██████╔╝██║  ██║</text>
+<text x="60" y="362">╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝</text>
+</g>
+
+<!-- info panel -->
+<g font-size="16" fill="#94A3B8">
+<text x="620" y="110"><tspan fill="#22D3EE">$</tspan> whoami</text>
+<text x="620" y="138" fill="#F8FAFC">Rawal Singh — Builder</text>
+<text x="620" y="170"><tspan fill="#22D3EE">$</tspan> cat focus.txt</text>
+<text x="620" y="198" fill="#F8FAFC">AI bots · Websites · AI agents</text>
+<text x="620" y="230"><tspan fill="#22D3EE">$</tspan> cat stack.txt</text>
+<text x="620" y="258" fill="#A78BFA">TypeScript ▸ JavaScript ▸ HTML/CSS</text>
+<text x="620" y="286" fill="#A78BFA">Node.js ▸ AI / LLMs</text>
+<text x="620" y="318"><tspan fill="#22D3EE">$</tspan> cat mission.txt</text>
+<text x="620" y="346" fill="#F8FAFC">Simplifying life with</text>
+<text x="620" y="370" fill="#F8FAFC">user-controlled AI systems</text>
+<text x="620" y="402"><tspan fill="#22D3EE">$</tspan> ./status --live <tspan fill="#10B981">▊</tspan>
+<animate attributeName="opacity" values="1;1" dur="1s" repeatCount="indefinite"/>
+</text>
+</g>
+
+<!-- bottom stats bar -->
+<g font-size="14" fill="#64748B">
+<text x="60" y="430">┌─ system ─────────────────────────────┐</text>
+<text x="60" y="454">│ <tspan fill="#22D3EE">◈</tspan> location <tspan fill="#F8FAFC">Barmer, Rajasthan, IN</tspan>      │</text>
+<text x="60" y="478">│ <tspan fill="#A78BFA">◈</tspan> degree   <tspan fill="#F8FAFC">Arts student × Builder</tspan>        │</text>
+<text x="60" y="502">│ <tspan fill="#10B981">◈</tspan> motto    <tspan fill="#F8FAFC">tech serves people</tspan>           │</text>
+<text x="60" y="526">└────────────────────────────────────────┘</text>
+</g>
+
+<g font-size="14" fill="#64748B">
+<text x="620" y="430">┌─ now ────────────────────────────────┐</text>
+<text x="620" y="454">│ <tspan fill="#22D3EE">◈</tspan> building <tspan fill="#F8FAFC">AI agents &amp; bots</tspan>          │</text>
+<text x="620" y="478">│ <tspan fill="#A78BFA">◈</tspan> shipping <tspan fill="#F8FAFC">wineshop digital parcha</tspan>     │</text>
+<text x="620" y="502">│ <tspan fill="#10B981">◈</tspan> learning <tspan fill="#F8FAFC">LLMs · RAG · automation</tspan>      │</text>
+<text x="620" y="526">└────────────────────────────────────────┘</text>
+</g>
+</svg>
