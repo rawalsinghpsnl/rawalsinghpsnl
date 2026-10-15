@@ -1,1 +1,69 @@
-PGRpdiBhbGlnbj0iY2VudGVyIj4KCjxpbWcgc3JjPSJhc3NldHMvdmlzdWFsLW1hcC5zdmciIGFsdD0idmlzdWFsIG1hcCIgd2lkdGg9IjgwMCIvPgoKPGltZyBzcmM9Imh0dHBzOi8vcmVhZG1lLXR5cGluZy1zdmcuZGVtb2xhYi5jb20/Zm9udD1GaXJhK0NvZGUmd2VpZ2h0PTYwMCZzaXplPTI2JmR1cmF0aW9uPTMwMDAmcGF1c2U9ODAwJmNvbG9yPTAwRTVGRiZjZW50ZXI9dHJ1ZSZ2Q2VudGVyPXRydWUmd2lkdGg9NjUwJmxpbmVzPUhpKyVGMCU5RiU5MSU4QiUyQytJJ20rUmF3YWwrU2luZ2g7QUkrQm90cyslMjYrV2Vic2l0ZXMrQnVpbGRlcjtUeXBlU2NyaXB0KyUyQitBSStBZ2VudHM7U2ltcGxpZnlpbmcrTGlmZSt3aXRoK1RlY2giIGFsdD0idHlwaW5nIiAvPgoKPHA+CiAgPGltZyBzcmM9Imh0dHBzOi8va29tYXJldi5jb20vZ2hwdmMvP3VzZXJuYW1lPXJhd2Fsc2luZ2hwc25sJmNvbG9yPTAwZTVmZiZzdHlsZT1mb3ItdGhlLWJhZGdlJmxhYmVsPVBST0ZJTEUrVklTSVRTIiBhbHQ9InZpc2l0cyIvPgogIDxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL/Cfk41fQmFybWVyLF9SYWphc3RoYW4tMGQxMTE3P3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nb0NvbG9yPXdoaXRlIiBhbHQ9ImxvY2F0aW9uIi8+CjwvcD4KCjwvZGl2PgoKLS0tCgojIyMg8J+nrCBBYm91dAoKYGBgdHMKY29uc3QgcmF3YWwgPSB7CiAgcm9sZTogIkFydHMgc3R1ZGVudCDDlyBCdWlsZGVyIiwKICBmb2N1czogWyJBSSBib3RzIiwgIldlYnNpdGVzIiwgIkFJIGFnZW50cyJdLAogIG1pc3Npb246ICJTaW1wbGlmeWluZyBsaWZlIHdpdGggdXNlci1jb250cm9sbGVkIEFJIHN5c3RlbXMiLAogIHN0YWNrOiBbIlR5cGVTY3JpcHQiLCAiSmF2YVNjcmlwdCIsICJIVE1ML0NTUyIsICJBSS9MTE1zIl0sCiAgbG9jYXRpb246ICJCYXJtZXIsIFJhamFzdGhhbiwgSW5kaWEiLAogIG1vdHRvOiAiVGVjaCBzaG91bGQgc2VydmUgcGVvcGxlIOKAlCBub3QgdGhlIG90aGVyIHdheSBhcm91bmQuIgp9OwpgYGAKCi0tLQoKIyMjIPCfm6DvuI8gVGVjaCBTdGFjawoKPHA+CiAgPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvVHlwZVNjcmlwdC0zMTc4QzY/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPXR5cGVzY3JpcHQmbG9nb0NvbG9yPXdoaXRlIiAvPgogIDxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0phdmFTY3JpcHQtRjdERjFFP3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1qYXZhc2NyaXB0JmxvZ29Db2xvcj1ibGFjayIgLz4KICA8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9IVE1MNS1FMzRGMjY/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPWh0bWw1JmxvZ29Db2xvcj13aGl0ZSIgLz4KICA8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9DU1MzLTE1NzJCNj9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289Y3NzMyZsb2dvQ29sb3I9d2hpdGUiIC8+CiAgPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvTm9kZS5qcy0zMzk5MzM/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPW5vZGUuanMmbG9nb0NvbG9yPXdoaXRlIiAvPgogIDxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0FJX0FnZW50cy1iNTM3ZjI/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPW9wZW5haSZsb2dvQ29sb3I9d2hpdGUiIC8+CjwvcD4KCi0tLQoKIyMjIPCfk4ogU3RhdHMKCjxkaXYgYWxpZ249ImNlbnRlciI+Cgo8aW1nIHNyYz0iaHR0cHM6Ly9naXRodWItcmVhZG1lLXN0YXRzLnZlcmNlbC5hcHAvYXBpP3VzZXJuYW1lPXJhd2Fsc2luZ2hwc25sJnNob3dfaWNvbnM9dHJ1ZSZ0aGVtZT10b2t5b25pZ2h0JmhpZGVfYm9yZGVyPXRydWUmYmdfY29sb3I9MGQxMTE3JnRpdGxlX2NvbG9yPTAwZTVmZiZpY29uX2NvbG9yPWI1MzdmMiZ0ZXh0X2NvbG9yPWM5ZDFkOSIgaGVpZ2h0PSIxNzAiIC8+CjxpbWcgc3JjPSJodHRwczovL2dpdGh1Yi1yZWFkbWUtc3RyZWFrLXN0YXRzLmhlcm9rdWFwcC5jb20vP3VzZXI9cmF3YWxzaW5naHBzbmwmdGhlbWU9dG9reW9uaWdodCZoaWRlX2JvcmRlcj10cnVlJmJhY2tncm91bmQ9MGQxMTE3JnN0cm9rZT0wMGU1ZmYmcmluZz1iNTM3ZjImZmlyZT1mN2RmMWUmY3VyclN0cmVha0xhYmVsPTAwZTVmZiIgaGVpZ2h0PSIxNzAiIC8+Cgo8aW1nIHNyYz0iaHR0cHM6Ly9naXRodWItcmVhZG1lLXN0YXRzLnZlcmNlbC5hcHAvYXBpL3RvcC1sYW5ncy8/dXNlcm5hbWU9cmF3YWxzaW5naHBzbmwmbGF5b3V0PWNvbXBhY3QmdGhlbWU9dG9reW9uaWdodCZoaWRlX2JvcmRlcj10cnVlJmJnX2NvbG9yPTBkMTExNyZ0aXRsZV9jb2xvcj0wMGU1ZmYmdGV4dF9jb2xvcj1jOWQxZDkiIGhlaWdodD0iMTcwIiAvPgoKPC9kaXY+CgotLS0KCiMjIyDwn4+GIEZlYXR1cmVkCgp8IFByb2plY3QgfCBEZXNjcmlwdGlvbiB8CnwtLS18LS0tfAp8IFtyYXdhbC13aW5lc2hvcC1kaWdpdGFscGFyY2hhXShodHRwczovL2dpdGh1Yi5jb20vcmF3YWxzaW5naHBzbmwvcmF3YWwtd2luZXNob3AtZGlnaXRhbHBhcmNoYSkgfCBEaWdpdGFsIGRhaWx5LXBhcmNoYSwgc3RvY2sgJiBjYXNoIHJlY29uY2lsaWF0aW9uIHN5c3RlbSB8Cgo8ZGl2IGFsaWduPSJjZW50ZXIiPgoKIVt0cm9waHldKGh0dHBzOi8vZ2l0aHViLXByb2ZpbGUtdHJvcGh5LnZlcmNlbC5hcHAvP3VzZXJuYW1lPXJhd2Fsc2luZ2hwc25sJnRoZW1lPXRva3lvbmlnaHQmbm8tZnJhbWU9dHJ1ZSZyb3c9MSZjb2x1bW49NikKCjxzdWI+4pqhIGFydHMgc3R1ZGVudCBieSBkZWdyZWUsIGJ1aWxkZXIgYnkgaGVhcnQ8L3N1Yj4KCjwvZGl2Pgo=
+<div align="center">
+
+<img src="assets/visual-map.svg" alt="visual map" width="800"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Rawal+Singh;AI+Bots+%26+Websites+Builder;TypeScript+%2B+AI+Agents;Simplifying+Life+with+Tech" alt="typing" />
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=rawalsinghpsnl&color=00e5ff&style=for-the-badge&label=PROFILE+VISITS" alt="visits"/>
+  <img src="https://img.shields.io/badge/📍_Barmer,_Rajasthan-0d1117?style=for-the-badge&logoColor=white" alt="location"/>
+</p>
+
+</div>
+
+---
+
+### 🧬 About
+
+```ts
+const rawal = {
+  role: "Arts student × Builder",
+  focus: ["AI bots", "Websites", "AI agents"],
+  mission: "Simplifying life with user-controlled AI systems",
+  stack: ["TypeScript", "JavaScript", "HTML/CSS", "AI/LLMs"],
+  location: "Barmer, Rajasthan, India",
+  motto: "Tech should serve people — not the other way around."
+};
+```
+
+---
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Agents-b537f2?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+---
+
+### 📊 Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rawalsinghpsnl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=b537f2&text_color=c9d1d9" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rawalsinghpsnl&theme=tokyonight&hide_border=true&background=0d1117&stroke=00e5ff&ring=b537f2&fire=f7df1e&currStreakLabel=00e5ff" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawalsinghpsnl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9" height="170" />
+
+</div>
+
+---
+
+### 🏆 Featured
+
+| Project | Description |
+|---|---|
+| [rawal-wineshop-digitalparcha](https://github.com/rawalsinghpsnl/rawal-wineshop-digitalparcha) | Digital daily-parcha, stock & cash reconciliation system |
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=rawalsinghpsnl&theme=tokyonight&no-frame=true&row=1&column=6)
+
+<sub>⚡ arts student by degree, builder by heart</sub>
+
+</div>
